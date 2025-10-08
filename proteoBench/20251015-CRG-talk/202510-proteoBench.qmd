@@ -1,7 +1,7 @@
 ---
 title: "ProteoBench"
 subtitle: "core for life - challenge"
-author: An Stas | Mariette Matondo | Christian Panse
+author: An Staes | Mariette Matondo | Christian Panse
 date: now
 format:
   revealjs:
@@ -146,7 +146,7 @@ Promised
 
 * new instrument data for benchmark samples
   + ASTRAL data
-  + ULTRA data
+  + ULTRA2 data
 
 * modules
   + two more DDA modules
@@ -200,7 +200,7 @@ TODO(cp): find picture of An
 ![](https://fgcz-ms.uzh.ch/~cpanse/ProteoBenchChallenge/Tram_zurich.jpg)
 
 ::: footer
-agree to meassure to samples on two new instruments: Astral (CRG) and Bruker Ultraflex(FGCZ)
+agree to meassure to samples on two new instruments: Astral (CRG) and Bruker Ultra2(FGCZ)
 :::
 
 ## 2024-11 Zurich C4L meeting
@@ -297,6 +297,7 @@ future:
 ::: {.incremental}
 * We know how our pipelines perform compared to others
 * Update LFQ pipeline
+* Intorduced new graphs (graph proposals from Martin?)
 
 * 16K EUR in funding catalyzed substantial in-kind contributions (time) from the broader community beyond C4L
 :::
